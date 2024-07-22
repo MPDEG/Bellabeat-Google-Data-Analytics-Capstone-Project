@@ -31,3 +31,35 @@ You can find the step-by-step process for the entire project in the attached doc
 
 <object data="https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatPresentationSlides.pdf" width="1000" height="1000" type='application/pdf'/>
 
+![1](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154539.png)
+
+![2](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154556.png)
+
+![3](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154608.png)
+
+ACT
+
+Daily Activity Data
+    • Users wore the tracker for 85% of the day. Further analysis of battery data could lead to product improvements and greater accuracy in data summaries for customers.
+    • Develop notifications or activity advice to reduce the percentage of Sedentary minutes per day.
+    • The percentage of logged activity is very low and knowing the preferred activity by users. Introducing Light Intensity Activity exercise routines on the app may encourage users to engage in more daily activities and diversify their exercise routines. 
+    • There is a noticeable decrease in activity on Sunday as general trend. This raise the question: could a marketing campaign promoting familiar activities increase the average kilometers and overall activity levels on Sundays?
+    • The analysis shows that 80% of the total users don't reach the average target of 10,000 steps per day. Implementing a point/rewards system could motivate users to achieve this goal.
+
+Weight Data
+    • The analysis of weight information cannot be considered reliable due to insufficient data, which is incomplete and lacks consistency. 
+
+Several questions arise from this analysis:
+    1. Why do we have such a limited amount of weight data? Are users not interested in tracking their weight, or is it difficult for them to measure it easily? 
+    2. Could the manual and automatic reporting options be contributing to the low amount of data?
+    3. Could introducing a scale with Wi-Fi or Bluetooth connectivity be a viable product for users?
+    4. What other parameters could a scale measure besides weight?
+    5. Could a scale be designed differently, perhaps resembling a decorative carpet for placement next to the bed, where users typically stand at least twice a day?
+	These questions could guide further investigation and potentially lead to product 	improvements or new design considerations for weight tracking devices.
+Sleep Data
+    • Users sleep an average of 6,5 hours and around 30 minutes in restless state. It seems just below the recommended amount of sleep, 7-9 hours. 
+A marketing campaign highlighting the importance of adequate sleep and its benefits could improve users’ activity performance.
+
+  • Three users appear to suffer from some form of sleep disorder. Providing a report of this data to the users could encourage them to visit a doctor, potentially improving their sleep disorders.
+
+The final and broder question raised by this analysis is what additional metrics could be measured to improve the device?
