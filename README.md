@@ -24,10 +24,16 @@ With all the information we have the business task is to analyse data from non-B
 
 The analysis and recommendations will be presented to the Bellabeat executive team and Marketing team.
 
-### [Prepare, Process and Analyse](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatCaseStudyProcess_V02.docx)
-You can find the step-by-step process for the entire project in the attached document.[Prepare, Process, Analyse](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatCaseStudyProcess_V02.docx)
 
-### [Bellabeat Data Presentation](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatPresentationSlides.pdf)
+## [Prepare, Process and Analyse](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatCaseStudyProcess_V02.docx)
+You can find the step-by-step process for the entire project in the attached document.
+- Primary Document (Word File) [Prepare, Process, Analyse](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatCaseStudyProcess_V02.docx)
+- Daily Activity Data [Excel File](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/cad40253a3e78ed1448f154010c23c0a48eba8f3/dailyActivityData.xlsx)
+- Weight Data [Excel File](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/cad40253a3e78ed1448f154010c23c0a48eba8f3/weightData.xlsx)
+- Sleep Data with R [PDF File](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/cad40253a3e78ed1448f154010c23c0a48eba8f3/bellabeatRSleepData.pdf)
+- Presentation Slides [PDF File](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/cad40253a3e78ed1448f154010c23c0a48eba8f3/bellabeatPresentationSlides.pdf)
+
+## [Bellabeat Data Presentation](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatPresentationSlides.pdf)
 
 <object data="https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/509bf403e2a79341da5eb1dbbe7b9ea54e77bfec/bellabeatPresentationSlides.pdf" width="1000" height="1000" type='application/pdf'/>
 
@@ -37,9 +43,9 @@ You can find the step-by-step process for the entire project in the attached doc
 
 ![3](https://github.com/MPDEG/Bellabeat-Google-Data-Analytics-Capstone-Project/blob/36a6b83a422b8433f5d5877723482ac94d22d498/Graphs/Screenshot%202024-07-22%20154608.png)
 
-ACT
+## ACT
 
-Daily Activity Data
+#### Daily Activity Data
 - Users wore the tracker for 85% of the day. Further analysis of battery data could lead to product improvements and greater accuracy in data summaries for customers.
 - Develop notifications or activity advice to reduce the percentage of Sedentary minutes per day.
 - The percentage of logged activity is very low and knowing the preferred activity by users. Introducing Light Intensity Activity exercise routines on the app may encourage users to engage in more daily activities and diversify their exercise routines. 
@@ -47,7 +53,7 @@ Daily Activity Data
 - The analysis shows that 80% of the total users don't reach the average target of 10,000 steps per day. Implementing a point/rewards system could motivate users to achieve this goal.
 
 
-Weight Data
+#### Weight Data
 - The analysis of weight information cannot be considered reliable due to insufficient data, which is incomplete and lacks consistency. 
 Several questions arise from this analysis:
 1. Why do we have such a limited amount of weight data? Are users not interested in tracking their weight, or is it difficult for them to measure it easily?
@@ -59,10 +65,11 @@ Several questions arise from this analysis:
 These questions could guide further investigation and potentially lead to product improvements or new design considerations for weight tracking devices.
 
 
-Sleep Data
+#### Sleep Data
 - Users sleep an average of 6,5 hours and around 30 minutes in restless state. It seems just below the recommended amount of sleep, 7-9 hours. 
 A marketing campaign highlighting the importance of adequate sleep and its benefits could improve users’ activity performance.
 
 - Three users appear to suffer from some form of sleep disorder. Providing a report of this data to the users could encourage them to visit a doctor, potentially improving their sleep disorders.
+
 
 **The final and broder question raised by this analysis is what additional metrics could be measured to improve the device?**
