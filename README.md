@@ -1,4 +1,4 @@
-# Bellabeat-Google-Data-Analytics-Capstone-Project
+# Bellabeat Google Data Analytics Capstone Project
 
 <img src="https://github.com/user-attachments/assets/232d9985-1e1e-4056-89ef-8dbb6440dfdf" width="500" height="200">
 
