@@ -20,7 +20,7 @@ These questions will guide your analysis:
 
 
 ### The Business Task
-With all the information we have the business task is to analyse data from non-Bellabeat smart devices to see how the consumers are using it and with the insights found in that data apply it to a Bellabeat’s product to help the marketing team to find a strategy for the company.
+With all the information we have the business task is to analyse data from non-Bellabeat smart devices to see how the consumers are using them and with the insights found in that data apply it to a Bellabeat’s product to help the marketing team to find a strategy for the company.
 
 The analysis and recommendations will be presented to the Bellabeat executive team and Marketing team.
 
